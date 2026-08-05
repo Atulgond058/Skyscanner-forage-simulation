@@ -55,20 +55,5 @@ SkyScanner-internship-work/
 - Code Organization
 - Version Control with Git & GitHub
 
-## 📜 Certificate
-
-Successfully completed the **SkyScanner Front-End Software Engineering Job Simulation** through Forage.
-
-Completion Date: **June 2026**
-
-## 🌟 Outcome
-
-This virtual internship helped me gain practical exposure to real-world front-end development workflows and strengthened my understanding of React application development.
-
----
-
-### Connect With Me
-
-- GitHub: https://github.com/kamlakantkumar51
 
 ⭐ If you found this repository useful, feel free to star it.
